@@ -14,6 +14,6 @@ const KEY = 'YOUR_API_KEY'
 
 ## APIs Used
 
-[UI Names](https://github.com/thm/uinames) (for generating random user data)
-[Google's map and geocoding APIs](https://developers.google.com/)
-[Dicebear Avatars](https://avatars.dicebear.com/) (for generating pixelated portraits)
+- [UI Names](https://github.com/thm/uinames) (for generating random user data)
+- [Google's map and geocoding APIs](https://developers.google.com/)
+- [Dicebear Avatars](https://avatars.dicebear.com/) (for generating pixelated portraits)
