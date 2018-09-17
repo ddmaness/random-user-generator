@@ -1,0 +1,38 @@
+* {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+body {
+    padding: 24px;
+    max-width: 1200px;
+    margin: auto;
+}
+
+button {
+    margin-left: 28px;
+    padding: 8px;
+    height: 48px;
+    background-color: darkslateblue;
+    color: white;
+}
+
+div {
+    display: inline-block;
+    height: 400px;  /* The height is 400 pixels */
+}
+
+img {
+    width: 70%;
+}
+
+h3 {
+    margin-left: 28px;
+}
+
+#user {
+    width: 30%;
+}
+
+#map {
+    width: 70%;
+}
